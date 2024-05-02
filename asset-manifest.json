@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b5f06a9.css",
+    "main.js": "/static/js/main.c0e53a68.js",
+    "static/media/img-pose-long.png": "/static/media/img-pose-long.0159ee8cf233baef4e25.png",
+    "static/media/img-vernis-ongle.jpg": "/static/media/img-vernis-ongle.55e6c2cd7eb949d3b17d.jpg",
+    "static/media/img-outils.jpg": "/static/media/img-outils.b07a4aace50b5563447c.jpg",
+    "index.html": "/index.html",
+    "main.4b5f06a9.css.map": "/static/css/main.4b5f06a9.css.map",
+    "main.c0e53a68.js.map": "/static/js/main.c0e53a68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5f06a9.css",
+    "static/js/main.c0e53a68.js"
+  ]
+}
