@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1ac048f.css",
-    "main.js": "/static/js/main.b24272f2.js",
+    "main.css": "/static/css/main.a4803930.css",
+    "main.js": "/static/js/main.b3c31a8c.js",
     "static/media/img-pose-long.png": "/static/media/img-pose-long.0159ee8cf233baef4e25.png",
     "static/media/img-vernis-ongle.jpg": "/static/media/img-vernis-ongle.55e6c2cd7eb949d3b17d.jpg",
     "static/media/img-pedicure.jpg": "/static/media/img-pedicure.91abd921ba58afb94965.jpg",
@@ -13,13 +13,13 @@
     "static/media/img-pose3.jpg": "/static/media/img-pose3.37649de87c87ae970b75.jpg",
     "static/media/img-pose.jpg": "/static/media/img-pose.60f849496bc522a60876.jpg",
     "static/media/gommage.jpg": "/static/media/gommage.928f08953164b2b0d6fd.jpg",
-    "static/media/logo.png": "/static/media/logo.9c334ef2729aefe8d5d9.png",
+    "static/media/alyce2.png": "/static/media/alyce2.b5604b5df71d72ebcf8b.png",
     "index.html": "/index.html",
-    "main.d1ac048f.css.map": "/static/css/main.d1ac048f.css.map",
-    "main.b24272f2.js.map": "/static/js/main.b24272f2.js.map"
+    "main.a4803930.css.map": "/static/css/main.a4803930.css.map",
+    "main.b3c31a8c.js.map": "/static/js/main.b3c31a8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1ac048f.css",
-    "static/js/main.b24272f2.js"
+    "static/css/main.a4803930.css",
+    "static/js/main.b3c31a8c.js"
   ]
 }
